@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CollisionsCudaKernel", "CollisionsCudaKernel\CollisionsCudaKernel.vcxproj", "{59A5EBB2-AC5A-4261-8AC0-C1E6ECD4BA11}"
+	ProjectSection(ProjectDependencies) = postProject
+		{17F3E359-7D88-4A27-BBDB-6D2F0824C437} = {17F3E359-7D88-4A27-BBDB-6D2F0824C437}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CollisionsMainForm", "CollisionsMainForm\CollisionsMainForm.vcxproj", "{17F3E359-7D88-4A27-BBDB-6D2F0824C437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A5EBB2-AC5A-4261-8AC0-C1E6ECD4BA11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59A5EBB2-AC5A-4261-8AC0-C1E6ECD4BA11}.Debug|Win32.Build.0 = Debug|Win32
+		{59A5EBB2-AC5A-4261-8AC0-C1E6ECD4BA11}.Release|Win32.ActiveCfg = Release|Win32
+		{59A5EBB2-AC5A-4261-8AC0-C1E6ECD4BA11}.Release|Win32.Build.0 = Release|Win32
+		{17F3E359-7D88-4A27-BBDB-6D2F0824C437}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17F3E359-7D88-4A27-BBDB-6D2F0824C437}.Debug|Win32.Build.0 = Debug|Win32
+		{17F3E359-7D88-4A27-BBDB-6D2F0824C437}.Release|Win32.ActiveCfg = Release|Win32
+		{17F3E359-7D88-4A27-BBDB-6D2F0824C437}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
