@@ -1,0 +1,1 @@
+_declspec(dllexport) int CallCollisionsCudaKernel(int maxParticles, double rBasic, double sigma, double sigmaS, double wallThickness);
