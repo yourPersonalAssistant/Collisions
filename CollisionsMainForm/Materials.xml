@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Materials>
+	<Material name="Plumbum">
+		<Sigma>11,652</Sigma>
+		<SigmaS>10,983</SigmaS>
+	</Material>
+	<Material name="Test Material A">
+		<Sigma>27,389</Sigma>
+		<SigmaS>20,309</SigmaS>
+	</Material>
+	<Material name="Test Material B">
+		<Sigma>38,938</Sigma>
+		<SigmaS>16,283</SigmaS>
+	</Material>
+	<Material name="Test Material C">
+		<Sigma>17,759</Sigma>
+		<SigmaS>2,476</SigmaS>
+	</Material>
+</Materials>
